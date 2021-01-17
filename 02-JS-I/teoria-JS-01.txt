@@ -9,7 +9,7 @@ Las "strings" son bloques de texto o cadenas de caracteres, siempre se definirá
 FUNCIONES 
 
 Las funciones son tipos particulares de Objetos, invocables, por lo que tienen las mismas propiedades que cualquier objeto.
-Una función comenzará con la palabra clave function. Después de eso viene el nombre de la función, Luego viene un paréntesis abierto y uno cerrado. Y finalmente, abre y cierre los corchetes. Entre estos corchetes es donde irá todo nuestro código a ejecutar.
+Una función comenzará con la palabra clave function. Después de eso viene el nombre de la función, Luego viene un paréntesis abierto y uno cerrado. Y finalmente, abre y cierre los corchetes. Entre estos corchetes es donde irá todo nuestro código a ejecutaar.
 
 Se utilizan para reutilizar código en varias partes del  programa y así evitar repetir código. Tambíen, nos ayudan a dividir nuestro promblema en varias partes y así poder corregir errores de forma más rapida y segura.
 
