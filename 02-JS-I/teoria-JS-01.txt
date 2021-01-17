@@ -1,0 +1,31 @@
+VARIABLE 
+
+Una variable es una forma de reservar valor de algo para usar más tarde. Las variable, en JavaScript, se crean utilizando la palabra clave var, seguida de un espacio y el nombre de la variable (con este nombre podremos hacer referencia a ella luego). Además de declarar una variable, podemos asignarle un valor usando el signo =.
+
+STRING 
+
+Las "strings" son bloques de texto o cadenas de caracteres, siempre se definirán entre comillas, ya sea simple o doble. Cualquier texto entre comillas es una cadena o string.
+
+FUNCIONES 
+
+Las funciones son tipos particulares de Objetos, invocables, por lo que tienen las mismas propiedades que cualquier objeto.
+Una función comenzará con la palabra clave function. Después de eso viene el nombre de la función, Luego viene un paréntesis abierto y uno cerrado. Y finalmente, abre y cierre los corchetes. Entre estos corchetes es donde irá todo nuestro código a ejecutar.
+
+Se utilizan para reutilizar código en varias partes del  programa y así evitar repetir código. Tambíen, nos ayudan a dividir nuestro promblema en varias partes y así poder corregir errores de forma más rapida y segura.
+
+RETURN
+
+única forma en que los datos escapan de una función Y la retornan a donde fue invocada.
+
+IF
+
+Son herramientas para realizar determinada operación siempre y cuando se cumpla alguna condición que nosotros indiquemos, si esta condición no se cumple, entonces no se ejecutará nada. Son los denominados flujos de control.
+
+BOLLEANO
+
+Los booleanos provienen de la lógica de Boole. Es un concepto que alimenta el código binario y el núcleo de las computadoras. Es posible que haya visto código binario en el pasado (0001 0110…), esto es lógica booleana. Esencialmente significa que tiene dos opciones, activar o desactivar, 0 o 1, verdadero o falso. En Javascript usamos booleanos para significar verdadero o falso. Esto puede parecer simple al principio, pero puede complicarse más adelante.
+
+var meEncantaJavascript = true;
+Los valores posibles de un dato booleando en JS son: true o false.
+
+
