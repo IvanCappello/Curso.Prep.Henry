@@ -1,0 +1,13 @@
+FOR
+
+Es un bucle, es decir, que se repite un código tantas veces como le indiquemos, tiene la particularidad que para usarlo debemos saber la cantidad exacta de veces que se debe repetir.
+
+`&&`, `||`, `!`
+
+Estos simbolos son operadores lógicos, es decir, nos sirven para comparar y verificar que algo sea verdadero o falso.
+
+El operador &&, significa AND, e indica que dos elementos deben ser veredaderos, si uno de ellos es falso, entonces la comparación es falsa
+
+El operador ||, significa OR, e indica que al menos uno de los dos elementos es verdadero, es decir que con que uno de ellos sea verdadero, la operación devuelve true
+
+Por último, tenemos el operador !, para verificar que la expresión sea contraria a la indicada
