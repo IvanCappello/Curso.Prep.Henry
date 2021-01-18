@@ -1,0 +1,11 @@
+Arrays
+
+Un array es una coleción de datos, en donde podemos almacenar varios de ellos, es decir, podemos guardar int, strings, etc. Luego podemos acceder a cada dato por separado, ya que cada uno esta identificado individualmente con un indice numerico.
+
+Ademas podemos agregar o eleminar elementos de varias formas:
+
+- Indicando el indice en donde queremos agregar o elimnar un elementos
+- Con el método .push podemos agregar un elemento, sumando un nuevo indice
+- COn el método .pop podemos eliminar el último elemento del array, disminuyendo el indice en -1
+- Con el método .unshift podemos agregar un elmento al inicio del array.
+- Con el método .shift podemos eliminar el primer elemento del arrar.
