@@ -1,0 +1,19 @@
+  * Objetos
+
+  Los objetos son datos abstractos, creados por el programador, en donde se puede almacenar mucha información, estos se conformas de propiedades o key con sus respectivos valores. Podemos almacenar los tipos de datos que conocemos. 
+
+	* Propiedades
+
+  Forman parte de los objetos, en ellas es donde guardamos los valores a los que podremos acceder luego.
+
+	* Métodos
+
+  Los métodos son funciones que guardamos dentro de un objeto, y que invocamos para reutilizar código.
+
+	* Bucle `for…in`
+
+  Funciona de manera similar al bucle for, aunque for in sirve para recorrer un objeto.
+
+	* Notación de puntos vs notación de corchetes
+
+  Tienen la mimsa funcionalidad, nos sirven para indicar a que propiedad queremos acceder.
