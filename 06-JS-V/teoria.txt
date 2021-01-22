@@ -1,0 +1,9 @@
+* `prototype`
+
+Es básicamente lo que venimos realizando con bucles, funciones, etc. Es hacer el código una vez y reutilizarlo cúando es necesario para no repetirlo y así evitar errores. 
+
+Con prototype podemos crear una clase y luego acceder a cada objeto de ella cuando lo necesitamos. En JS todo es objeto, por lo que todo tiene un prototype, además cuando solicitamos una propiedad que no está en el objeto, JS nos hace el favor de buscarla en el prototype general y devolver esa propiedad, si es que la tiene. 
+
+* _Constructors_ (de Clases)
+
+Los _Constructors_ son la forma en que tenemos de definir una "plantilla" de un objeto, para que lo hagamos una vez, y luego podamos utilizarla en la creación de diferentes objetos con diferentes valores.
